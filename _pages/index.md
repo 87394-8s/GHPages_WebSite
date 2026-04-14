@@ -1,8 +1,14 @@
 ---
-title: "ここにページのタイトル"
+title: "About me"
 author: default
 permalink: /
 ---
+おはよう^^
+咲花です✬
+わたしの趣味は**おえかき**
+高校の頃に描いた絵を紹介しちゃう**YO**
+
+![image](/GHPages_WebSite/assets/images/logo-150.png)
 
 
 
