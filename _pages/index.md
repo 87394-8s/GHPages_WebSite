@@ -15,7 +15,8 @@ permalink: /
 
 
 ２つ目は「野ちゃいるど」です！
-![image](/GHPages_WebSite/assets/images/logo-150.png![野ちゃいるど](https://github.com/user-attachments/assets/8df727f2-3f5e-4e1c-b202-06b5fb12ab6d)
+![image](/GHPages_WebSite/assets/images/logo-150.png)
+![野ちゃいるど](https://github.com/user-attachments/assets/8df727f2-3f5e-4e1c-b202-06b5fb12ab6d)
 
 
 
